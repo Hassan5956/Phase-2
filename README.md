@@ -12,6 +12,9 @@ The goal of this analysis is to help the business:
 - Calculate trends on production budget over the years
 - Calculate trends of aundience engagement over the years
 - Compare domestic and worldwide gross over the years
+For a Non Technical presentation refer to [link](https://github.com/Hassan5956/Phase-2/blob/main/presentation.pdf)
+
+For a Tableau Prresentation refer to this [link](https://public.tableau.com/app/profile/hassan.ali3171/viz/MOVIEANALYSIS_17543828359550/Dashboard1)
 
 ## 2.1. Objectives
 1. To identify the top 10 most produced genres
